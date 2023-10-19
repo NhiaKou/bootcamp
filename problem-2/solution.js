@@ -15,3 +15,7 @@ console.log(firstName())
 function getName() {
     return "Luna";
   }
+
+function name() {
+    return "Luna"
+}

@@ -1,0 +1,3 @@
+/*
+Create a function that takes in an input and returns that input.
+*/
